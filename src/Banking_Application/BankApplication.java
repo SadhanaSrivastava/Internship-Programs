@@ -30,7 +30,7 @@ public class BankApplication {
 
                     sc.nextLine();
 
-                    System.out.print("Enter account holder name: ");
+                    System.out.print("Enter account holder name: ");gi
                     String name = sc.nextLine();
 
                     account = new BankAccount(accNo, name);
